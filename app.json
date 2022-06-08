@@ -5,7 +5,7 @@
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/raganork-ind/whatsapp-bot",
+	"repository": "https://github.com/tharindu13/whatsapp-bot-1",
 	"stack": "container",
     "env": { 
         "HANDLERS": {
